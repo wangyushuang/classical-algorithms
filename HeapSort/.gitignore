@@ -1,0 +1,13 @@
+# settings
+.settings
+
+# files in doc
+/doc/index-files
+/doc/*.html
+/doc/*.css
+/doc/*.js
+/doc/package-list
+
+#
+.classpath
+.project
